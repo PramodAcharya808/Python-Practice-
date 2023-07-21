@@ -13,4 +13,3 @@ print(names[:6])
 
 # Negative slicing
 print(names[-7:-1])
-print(names[-7:-1])
