@@ -20,3 +20,4 @@ print("Is Spaces : ", str.title())
 
 
 
+
