@@ -5,3 +5,4 @@ print("lower : ", str.lower())
 print("Is Spaces : ", str.title())
 
 
+
