@@ -35,3 +35,4 @@ for item in data:
 # Close the database connection
 conn.close()
 
+
