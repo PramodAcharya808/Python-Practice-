@@ -1,5 +1,5 @@
 day = int(1)
-while 1 <= day <= 7:
+while 1:
     day = int(input('Enter the day number in a week: '))
     match day:
         case 1:
