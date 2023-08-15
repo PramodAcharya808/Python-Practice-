@@ -1,0 +1,1 @@
+# multiplication table of N
