@@ -8,3 +8,4 @@ elif num > 0:
         print('Number OutOfBound')
 else:
     print('Number entered is ZERO (0)')
+    
