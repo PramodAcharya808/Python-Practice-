@@ -26,3 +26,4 @@ while 1:
             exit()
         case _:
             print('Please enter a valid day !!')
+
